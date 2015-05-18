@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-WP 3D Motion is a WordPress 3D image slider Plugin.
+WP 3D Motion is a WordPress 3D image slider Plugin. Please check more about WordPress by this link http://wptutorialspoint.com/ . 
 
 
 = Shortcode Options =
