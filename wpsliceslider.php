@@ -1,8 +1,8 @@
 <?php
 /*
     Plugin Name: WP 3D Motion Slider
-    Description: WP 3D Motion is a WordPress 3D image slider Plugin.
-    Author: Omikant
+    Description: WP 3D Motion is a WordPress 3D image slider Plugin.It is Responsive slider WordPress Plugin
+    Author: Omikant, wptutorialspoint
     Version: 1.0.1
     Author URI: https://profiles.wordpress.org/omikant
 	License: GPLv2
